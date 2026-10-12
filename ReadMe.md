@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a fresh computer engineering graduate from Arab Academy for Science and Technology<br>I am Full-stack software engineer<br>Working currently on Tilawa.io
+I’m a recent Computer Engineering graduate from the Arab Academy for Science and Technology (AAST). I build full-stack web and mobile applications.
+
+I’m currently working on Tilawa.io.
+
+Stack: React · Node.js · Flutter · Python · Firebase
 
 
 ## 🌐 Socials:
